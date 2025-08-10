@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:12
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:12.000000,
+5 4 3 2 1 A Simple Grounding Exercise to Calm Anxiety0.ts
+#EXTINF:12.000000,
+5 4 3 2 1 A Simple Grounding Exercise to Calm Anxiety1.ts
+#EXTINF:6.000000,
+5 4 3 2 1 A Simple Grounding Exercise to Calm Anxiety2.ts
+#EXTINF:5.833333,
+5 4 3 2 1 A Simple Grounding Exercise to Calm Anxiety3.ts
+#EXT-X-ENDLIST
