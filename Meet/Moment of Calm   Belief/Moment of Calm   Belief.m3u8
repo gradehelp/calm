@@ -1,0 +1,19 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:13
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:12.512500,
+Moment of Calm   Belief0.ts
+#EXTINF:12.512500,
+Moment of Calm   Belief1.ts
+#EXTINF:6.256244,
+Moment of Calm   Belief2.ts
+#EXTINF:12.512500,
+Moment of Calm   Belief3.ts
+#EXTINF:6.256256,
+Moment of Calm   Belief4.ts
+#EXTINF:12.512500,
+Moment of Calm   Belief5.ts
+#EXTINF:6.463500,
+Moment of Calm   Belief6.ts
+#EXT-X-ENDLIST
