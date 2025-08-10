@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.010000,
+Daily Move Blooper Reel0.ts
+#EXTINF:10.010000,
+Daily Move Blooper Reel1.ts
+#EXTINF:10.010000,
+Daily Move Blooper Reel2.ts
+#EXTINF:10.010000,
+Daily Move Blooper Reel3.ts
+#EXTINF:4.587000,
+Daily Move Blooper Reel4.ts
+#EXT-X-ENDLIST

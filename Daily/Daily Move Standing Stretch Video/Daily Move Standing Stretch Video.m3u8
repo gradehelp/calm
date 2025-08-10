@@ -1,0 +1,19 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.010000,
+Daily Move Standing Stretch Video0.ts
+#EXTINF:10.010000,
+Daily Move Standing Stretch Video1.ts
+#EXTINF:10.010000,
+Daily Move Standing Stretch Video2.ts
+#EXTINF:10.010000,
+Daily Move Standing Stretch Video3.ts
+#EXTINF:10.010000,
+Daily Move Standing Stretch Video4.ts
+#EXTINF:10.010000,
+Daily Move Standing Stretch Video5.ts
+#EXTINF:2.752200,
+Daily Move Standing Stretch Video6.ts
+#EXT-X-ENDLIST
