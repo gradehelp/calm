@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:11
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.666667,
+Calm Music   Disney Piano0.ts
+#EXTINF:10.666667,
+Calm Music   Disney Piano1.ts
+#EXTINF:10.666667,
+Calm Music   Disney Piano2.ts
+#EXTINF:10.666667,
+Calm Music   Disney Piano3.ts
+#EXTINF:10.666667,
+Calm Music   Disney Piano4.ts
+#EXTINF:6.666667,
+Calm Music   Disney Piano5.ts
+#EXT-X-ENDLIST
