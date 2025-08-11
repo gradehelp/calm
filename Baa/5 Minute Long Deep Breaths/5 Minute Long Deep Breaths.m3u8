@@ -1,0 +1,23 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.240000,
+5 Minute Long Deep Breaths0.ts
+#EXTINF:10.240000,
+5 Minute Long Deep Breaths1.ts
+#EXTINF:10.240000,
+5 Minute Long Deep Breaths2.ts
+#EXTINF:10.240000,
+5 Minute Long Deep Breaths3.ts
+#EXTINF:10.240000,
+5 Minute Long Deep Breaths4.ts
+#EXTINF:10.240000,
+5 Minute Long Deep Breaths5.ts
+#EXTINF:10.240000,
+5 Minute Long Deep Breaths6.ts
+#EXTINF:10.240000,
+5 Minute Long Deep Breaths7.ts
+#EXTINF:6.640000,
+5 Minute Long Deep Breaths8.ts
+#EXT-X-ENDLIST
