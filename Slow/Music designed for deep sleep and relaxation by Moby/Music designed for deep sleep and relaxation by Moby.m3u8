@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.240000,
+Music designed for deep sleep and relaxation by Moby0.ts
+#EXTINF:10.240000,
+Music designed for deep sleep and relaxation by Moby1.ts
+#EXTINF:10.240000,
+Music designed for deep sleep and relaxation by Moby2.ts
+#EXTINF:4.840000,
+Music designed for deep sleep and relaxation by Moby3.ts
+#EXT-X-ENDLIST

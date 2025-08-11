@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.240000,
+Drift off to dreamland with Moby0.ts
+#EXTINF:10.240000,
+Drift off to dreamland with Moby1.ts
+#EXTINF:10.240000,
+Drift off to dreamland with Moby2.ts
+#EXTINF:10.240000,
+Drift off to dreamland with Moby3.ts
+#EXTINF:2.040000,
+Drift off to dreamland with Moby4.ts
+#EXT-X-ENDLIST

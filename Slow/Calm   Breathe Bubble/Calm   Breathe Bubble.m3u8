@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:13
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:13.000000,
+Calm   Breathe Bubble0.ts
+#EXTINF:10.000000,
+Calm   Breathe Bubble1.ts
+#EXTINF:10.000000,
+Calm   Breathe Bubble2.ts
+#EXTINF:7.000000,
+Calm   Breathe Bubble3.ts
+#EXTINF:12.360000,
+Calm   Breathe Bubble4.ts
+#EXT-X-ENDLIST

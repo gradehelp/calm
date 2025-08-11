@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.240000,
+Sloths are the Worlds Greatest Sleep and Relaxation Ambassadors0.ts
+#EXTINF:10.360000,
+Sloths are the Worlds Greatest Sleep and Relaxation Ambassadors1.ts
+#EXT-X-ENDLIST
